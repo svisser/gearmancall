@@ -1,0 +1,9 @@
+[package]
+name = "gearmancall"
+version = "0.1.0"
+authors = ["Simeon Visser <simeonvisser@gmail.com>"]
+
+[dependencies]
+byteorder = "1.0.0"
+rand = "0.3.15"
+rustc-serialize = "0.3.22"
